@@ -1,2 +1,2 @@
-# yucppe.github.io
-La pagina de Yucppe
+# Yucppe's GitHub
+Yucppe's journey learing web programming
